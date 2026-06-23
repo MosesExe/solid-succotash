@@ -3,7 +3,7 @@
 
 The actual idea came from playing a emerald ROM hack that bugged out and my zigzagoon was picking up **way** too many items and it caused a whole bunch of crashing issues. Pair that with some excel certification testing and you get a mini porject like this. Can't imagine anyone using it, and it's definetly been done better by someone else 10 years ago, but I think it's fun so moot point.
 
-Look at this little guy! Crashing and Making a ROM save unplayable after 65 hours in! : <img src="image-3.png" height="50" width='50px'>
+Look at this little guy! Crashing and Making a ROM save unplayable after 65 hours in! : <img src="https://img.pokemondb.net/artwork/large/zigzagoon.jpg" height="50" width='50px'>
 
 ## Description:
 ---
