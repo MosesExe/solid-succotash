@@ -9,4 +9,4 @@ So let's start here:
 ## The places you can go
 
 ### 1. Projects
-A. Pokemon Item Excel Sorter: This one is just a python project to get me used to pulling data from an API again (Been years),and exporting to Excel.
+A. Pokemon Inventory Workbook: This one is just a python project to get me used to pulling data from an API again (Been years),and exporting to Excel.
